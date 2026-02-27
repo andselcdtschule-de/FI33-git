@@ -10,3 +10,6 @@ htr
 htrh
 r
 htrhtr
+c = 22*2
+
+print(b)
